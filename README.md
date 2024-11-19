@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Casper Kroon
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Responsive >> surface als er tijd is
  
 </details>
 
@@ -36,15 +36,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.ibanez.com/eu/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Homepage 
+  <img src="readme-images/site1.png" width="auto" alt="omschrijving van de pagina1">
+  <img src="readme-images/site2.png" width="auto" alt="omschrijving van de pagina2">
+  <img src="readme-images/site3.png" width="auto" alt="omschrijving van de pagina3">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/site4.png" width="auto" alt="omschrijving van de pagina4">
+  <img src="readme-images/site5.png" width="auto" alt="omschrijving van de pagina5">
+  <img src="readme-images/site6.png" width="auto" alt="omschrijving van de pagina6">
  
 </details>
 
